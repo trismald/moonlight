@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.pem
+*.lock
+*.toml
+*.session
+*.python-version
+
+# Virtual environments
+.venv
+
+# Secret Key
+.env
