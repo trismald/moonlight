@@ -1,0 +1,9 @@
+# Telegram API credentials from https://my.telegram.org
+api_id="YOUR_API_ID"
+api_hash="YOUR_API_HASH"
+
+# Your personal Telegram phone number (used to authenticate the monitoring client)
+my_number="+1234567890"
+
+# Bot token from @BotFather
+token_bot="YOUR_BOT_TOKEN"
